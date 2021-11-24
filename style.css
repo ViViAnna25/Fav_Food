@@ -1,0 +1,50 @@
+.img {
+    width: 35%;
+}
+
+.container {
+    background-color: rgb(255, 250, 206);
+}
+
+.collapsible {
+    background-color: #777;
+    color: white;
+    cursor: pointer;
+    padding: 20px;
+    width: 100%;
+    border: 1em;
+    text-align: center;
+    outline: none;
+    font-size: 15px;
+}
+  
+.collapse:hover {
+    background-color: rgb(35, 190, 157);
+}
+  
+.content {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+}
+
+.btn btn-success .btn btn-info {
+    color: bisque;
+}
+
+.gal{
+    text-align: center;
+}
+
+#gallery {
+    max-width: 500px;
+    max-height: 600px;
+}
+/* .carousel-item{
+    width: 50%;
+} */
+
+.wid{
+    width:50%;
+}
